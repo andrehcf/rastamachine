@@ -56,6 +56,18 @@ footer {
     z-index: 100;
 }
 
+.fa-facebook {
+    position: absolute;
+    bottom: 0.5%;
+    right: 2%;
+    z-index: 100;
+    font-size: 3.25em;
+    text-decoration: none;
+    color: #cfd0d1;
+}
+}
+
+
 .link {
     text-decoration: none;
 }
